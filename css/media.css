@@ -1,0 +1,650 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    /* header start */
+    .d_menu[data-bs-popper] {
+        top: 44px;
+        left: 0;
+    }
+    /* header end */
+    /* slider start */
+    .s_c_item{
+        padding-top:100px;
+        padding-bottom:100px;
+    }
+    .c_c_p, .c_c_n {
+        top: 500px;   
+    }
+    .s_c_item h1{
+        margin-bottom: 15px;
+        text-align:center;
+        font-size: 45px;
+    }
+    .btn_slider {
+        padding: 12px 25px;
+    }
+    .c_c_n {
+        right: 205px;
+    }
+    .s_service{
+        margin-bottom:40px;
+    }
+    /* slider end */
+    /* service start */
+    .s_pic{
+        margin-top: 78px;
+        margin:0 ;
+    }
+    .ab_us h2{
+        margin-top:28px;
+        text-align:center;
+    }
+    .ab_us p{
+        text-align:center;
+        margin: 15px 0;
+    }
+    .ab_btn{
+        margin:0 20%;
+    }
+    .ab_us {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .work {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .degin{
+        font-size:13px;
+    }
+    /* service end */
+    /* portfolio start */
+    .portfolio {
+        padding-bottom: 10px;
+        background-color: #f8f8f8;
+    }
+    /* cretive start */
+    .cretive {
+        margin-top: 30px;
+    }
+    .c_p i{
+        margin:0 135px;
+    }
+    .cre h2 {
+        text-align:center;
+    }
+    .cre_p {
+        text-align:center;
+        margin-top: 0px;
+        margin-bottom: 15px;
+    }
+
+    .w_work {
+        margin-top: 40px;
+        padding-bottom: 40px
+    }
+    .client {
+        padding-top: 0px;
+    }
+    /* pricing start */
+    .pricing {
+        padding-bottom: 60px;
+    }
+    .singUp {
+        margin-top: 50px;
+    }
+    .responsive{
+        padding: 20px 0;
+    }
+    .r_text p{
+        font-size:15px;
+    }
+    .r_btn {
+        margin-left: -15%;
+        
+    }
+    .r-btn{
+        padding: 5px 5px;
+    }
+    /* slideTwo start */
+    .slideTwo {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .slide2Text h2{
+        margin-top:15px;
+        font-size:15px;
+    }
+    .slide2Text h3{
+        font-size:15px;
+        margin-top:5px;
+    }
+    .slide2Text h4{
+        font-size:15px;
+        margin-top:5px;
+    }
+    .slide2Text p{
+        margin-top:5px;
+        font-size:14px;
+    }
+    .c2_item {
+        margin-top: 0;
+        margin-bottom: 20px;
+        margin-left: 0px;
+        padding-right: 0px;
+    }
+    .ccp{
+        top:0;
+        left:-110px;
+        transform: rotate(0deg);
+    }
+    .ccn{
+        top:0;
+        left:110px;
+        transform: rotate(0deg);
+    }
+    .ccbtn{
+        transform: rotate(0deg);
+    }
+    /* about start */
+    /* .cre h2{
+        margin-left:30px;
+    } */
+    .cretive_arrow {
+        width: 300px;
+        margin-left: 10px;
+    }
+    .c_pra p{
+        margin-top:20px;
+    }
+    /* contact start */
+    .HC {
+        width:60%;
+    }
+    .HC h1{
+        font-size:25px;
+        margin-bottom:30px;
+    }
+    .r{
+        margin: 0 16%;
+        margin-bottom:30px;
+    }
+    .fName{
+        margin-bottom:20px;
+    }
+    .lName{
+        margin-bottom:20px;
+    }
+    .fEmail{
+        margin-bottom:20px;
+    }
+    .Ytextarea{
+        margin-bottom:20px;
+    }
+    .clienticon{
+        top:12%;
+    }
+    /* footer start */
+    footer{
+        margin-top:50px;
+    }
+    .footerTop {
+        padding-bottom: 40px;
+    }
+    .c_title p{
+        margin-top:20px;
+        padding:0 15px;
+    }
+    .footerS ul li a{
+        font-size:16px;
+    }
+    .footerBottom{
+        padding:15px 0;
+    }
+    .fText p{
+        font-size:11px;
+    }
+    .fMenu ul li{
+        margin-right:20px;
+    }
+    .fMenu ul li a{
+        font-size:11px;
+    }
+    .footerS ul li {
+        padding: 5px 5px;
+    }
+}
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* header start */
+    .d_menu[data-bs-popper] {
+        top: 44px;
+        left: 0;
+    }
+    /* header end */
+    /* slider start */
+    .s_c_item{
+        padding-top:100px;
+        padding-bottom:100px;
+    }
+    .c_c_p, .c_c_n {
+        top: 400px;   
+    }
+    .s_c_item h1{
+        margin-bottom: 15px;
+        font-size: 45px;
+    }
+    .btn_slider {
+        padding: 12px 25px;
+    }
+    .c_c_n {
+        right: 390px;
+    }
+    .s_service{
+        margin-bottom:40px;
+    }
+    /* slider end */
+    /* service start */
+    .s_pic{
+        margin-top: 78px;
+        margin:0 16%;
+    }
+    .ab_us h2{
+        margin-top:28px;
+        text-align:center;
+    }
+    .ab_us p{
+        text-align:center;
+        margin: 15px 0;
+    }
+    .ab_btn{
+        margin:0 33%;
+    }
+    .ab_us {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .work {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .degin{
+        font-size:13px;
+    }
+    /* service end */
+    /* portfolio start */
+    .portfolio {
+        padding-bottom: 10px;
+        background-color: #f8f8f8;
+    }
+    /* cretive start */
+    .cretive {
+        margin-top: 30px;
+    }
+    .c_p i{
+        margin:0 100px;
+    }
+    .cre h2 {
+        text-align:center;
+    }
+    .cre_p {
+        text-align:center;
+        margin-top: 0px;
+        margin-bottom: 15px;
+    }
+
+    .w_work {
+        margin-top: 40px;
+        padding-bottom: 40px
+    }
+    .client {
+        padding-top: 0px;
+    }
+    /* pricing start */
+    .pricing {
+        padding-bottom: 60px;
+    }
+    .singUp {
+        margin-top: 50px;
+    }
+    .responsive{
+        padding: 20px 0;
+    }
+    .r_text p{
+        font-size:15px;
+    }
+    .r_btn {
+        margin-left: -40%;
+        
+    }
+    .r-btn{
+        padding: 5px 20px;
+    }
+    /* slideTwo start */
+    .slideTwo {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .slide2Text h2{
+        margin-top:15px;
+        font-size:15px;
+    }
+    .slide2Text h3{
+        font-size:15px;
+        margin-top:5px;
+    }
+    .slide2Text h4{
+        font-size:15px;
+        margin-top:5px;
+    }
+    .slide2Text p{
+        margin-top:5px;
+        font-size:14px;
+    }
+    .c2_item {
+        margin-top: 0;
+        margin-bottom: 20px;
+        margin-left: 0px;
+        padding-right: 0px;
+    }
+    .ccp{
+        top:0;
+        left:-220px;
+        transform: rotate(0deg);
+    }
+    .ccn{
+        top:0;
+        left:220px;
+        transform: rotate(0deg);
+    }
+    .ccbtn{
+        transform: rotate(0deg);
+    }
+    /* about start */
+    /* .cre h2{
+        margin-left:30px;
+    } */
+    .cretive_arrow {
+        width: 250px;
+    }
+    .c_pra p{
+        margin-top:20px;
+    }
+    /* contact start */
+    .HC {
+        width:38%;
+    }
+    .HC h1{
+        margin-bottom:30px;
+    }
+    .r{
+        margin: 0 26%;
+        margin-bottom:30px;
+    }
+    .fName{
+        margin-bottom:20px;
+    }
+    .lName{
+        margin-bottom:20px;
+    }
+    .fEmail{
+        margin-bottom:20px;
+    }
+    .Ytextarea{
+        margin-bottom:20px;
+    }
+    .clienticon{
+        top:28%;
+    }
+    /* footer start */
+    footer{
+        margin-top:50px;
+    }
+    .footerTop {
+        padding-bottom: 40px;
+    }
+    .c_title p{
+        margin-top:20px;
+        padding:0 100px;
+    }
+    .footerS ul li a{
+        font-size:20px;
+    }
+    .footerBottom{
+        padding:15px 0;
+    }
+    .fText p{
+        font-size:11px;
+    }
+    .fMenu ul li{
+        margin-right:20px;
+    }
+    .fMenu ul li a{
+        font-size:11px;
+    }
+}
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* header start */
+    .d_menu[data-bs-popper] {
+        top: 44px;
+        left: 0;
+    }
+    /* header end */
+    /* slider start */
+    .s_c_item{
+        padding-top:150px;
+        padding-bottom:150px;
+    }
+    .c_c_p, .c_c_n {
+        top: 500px;   
+    }
+    .s_c_item h1{
+        margin-bottom:30px;
+        font-size:55px;
+    }
+    .btn_slider {
+        padding: 12px 25px;
+    }
+    .c_c_n {
+        right: 540px;
+    }
+    .s_service{
+        margin-bottom:40px;
+    }
+    /* slider end */
+    /* service start */
+    .s_pic{
+        margin-top: 78px;
+        margin:0 16%;
+    }
+    .ab_us h2{
+        margin-top:28px;
+        text-align:center;
+    }
+    .ab_us p{
+        text-align:center;
+    }
+    .ab_btn{
+        margin:0 37%;
+    }
+    .ab_us {
+        margin-top: 50px;
+        margin-bottom: 70px;
+    }
+    .work {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    /* service end */
+    /* portfolio start */
+    .portfolio {
+        padding-bottom: 10px;
+        background-color: #f8f8f8;
+    }
+    /* cretive start */
+    .cretive {
+        margin-top: 50px;
+    }
+
+    .w_work {
+        margin-top: 40px;
+        padding-bottom: 40px
+    }
+    .client {
+        padding-top: 0px;
+    }
+    /* pricing start */
+    .pricing {
+        padding-bottom: 60px;
+    }
+    .singUp {
+        margin-top: 50px;
+    }
+    .r_btn {
+        margin-left: -23%;
+    }
+    /* slideTwo start */
+    .slideTwo {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .slide2Text h2{
+        font-size:15px;
+    }
+    .slide2Text h3{
+        font-size:15px;
+        margin-top:5px;
+    }
+    .slide2Text h4{
+        font-size:15px;
+        margin-top:5px;
+    }
+    .slide2Text p{
+        margin-top:5px;
+        font-size:14px;
+    }
+    /* about start */
+    .cre h2{
+        margin-left:30px;
+    }
+    .cretive_arrow {
+        width: 200px;
+    }
+    .c_pra p{
+        margin-top:20px;
+    }
+    /* contact start */
+    .HC {
+        width:28%;
+    }
+    .HC h1{
+        margin-bottom:30px;
+    }
+    .r{
+        margin: 0 28%;
+        margin-bottom:30px;
+    }
+    .fName{
+        margin-bottom:20px;
+    }
+    .lName{
+        margin-bottom:20px;
+    }
+    .fEmail{
+        margin-bottom:20px;
+    }
+    .Ytextarea{
+        margin-bottom:20px;
+    }
+    /* footer start */
+    footer{
+        margin-top:50px;
+    }
+    .footerTop {
+        padding-bottom: 40px;
+    }
+    .c_title p{
+        margin-top:20px;
+        padding:0 168px;
+    }
+    .footerS ul li a{
+        font-size:20px;
+    }
+    .footerBottom{
+        padding:15px 0;
+    }
+    .fText p{
+        font-size:11px;
+    }
+    .fMenu ul li{
+        margin-right:20px;
+    }
+    .fMenu ul li a{
+        font-size:11px;
+    }
+ }
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* service start */
+    .c_c_n {
+        right: 400px;
+        color: #333333;
+    }
+    .cm_h1{
+        font-size:28px;
+    }
+    .ab_us p {
+        margin: 10px 0;
+    }
+    /* service end */
+    /* about start */
+    .cretive_arrow {
+        width: 300px;
+    }
+    .work {
+        padding-top: 50px;
+        padding-bottom: 40px;
+    }
+    /* about end */
+    .client {
+        padding-top: 0px;
+    }
+    .clienticon ul li a i {
+        font-size: 20px;
+        padding: 5px 3px;
+    }
+    .clientF:hover .clienttext {
+        opacity: 1;
+        bottom: -60px;
+    }
+    .clienttext h2{
+        font-size:16px;
+    }
+    .clienticon {
+        position: absolute;
+        top: 15%;
+        background-color: #fff;
+    }
+}
+
+ /* X-Large devices (desktops, 1200px and up) */
+ @media (min-width: 1200px) and (max-width: 1399.98px) {
+
+ }
+
+ /* XX-large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+    /* slider start */
+    .c_c_n {
+        right: 585px;
+    }
+    /* slider end */
+    /* service start */
+    .ab_btn{
+        margin-top: 78px;
+    }
+    
+}
